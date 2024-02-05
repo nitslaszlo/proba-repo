@@ -1,5 +1,7 @@
-Kedvenc ételem:
-Pizza recept:
+=============================
+I   Kedvenc ételem: Pizza   I
+=============================
+Kedvenc ételem receptje:
 Hozzávalók:
 - 1mk	cukor	
 - 2dkg	élesztő	
