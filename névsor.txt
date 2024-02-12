@@ -3,7 +3,6 @@ Nits László
 
 Csoport névsora:
 Szabó Bátony
-Csoport névsora: 
 Molnár László
 Novák Milán
 Németh Gergely
@@ -13,3 +12,4 @@ Szalai Máte
 Tihanyi Balázs 
 Palinkas Hunor
 Márton Mátyás
+Mente Koppány
